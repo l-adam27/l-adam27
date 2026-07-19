@@ -2,9 +2,7 @@
 
 ### A passionate developer from Brazil 🇧🇷
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=l-adam27&label=Profile views&color=0e75b6&style=flat" alt="l-adam27" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l-adam27" alt="l-adam27" /></a> </p>
+[![Leonardo Adam's GitHub stats](https://github-stats-extended.vercel.app/api?username=l-adam27)](https://github.com/stats-organization/github-stats-extended)
 
 - 🔭 I'm currently working on **The Dragões Metálicos website**
 
