@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from Brazil 🇧🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l-adam27&label=Profile%20views&color=136c6b&style=flat-square" alt="l-adam27" /> </p>
 
